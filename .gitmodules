@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "evolqg"]
 	path = evolqg
 	url = https://github.com/lem-usp/evolqg
-	shallow = true
-	registered = true
